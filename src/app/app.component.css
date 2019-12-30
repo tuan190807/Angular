@@ -1,0 +1,12 @@
+nav{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    padding-top: 10px;
+    background-color: darkkhaki;
+    margin: 20px;
+}
